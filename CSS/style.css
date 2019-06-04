@@ -1,12 +1,4 @@
-@media only screen and (max-width: 600px) {
-    .hero-title {
-        font-size: 32px;
-    }
- 
-    .hero-description {
-        font-size: 16px;
-    }
- }
+
 body {
     margin: 0;
     font-family: Roboto;
@@ -109,3 +101,13 @@ h6 {
     color: #2a1b3d;
     background-color: white;
 }
+
+@media only screen and (max-width: 600px) {
+    .hero-title {
+        font-size: 32px;
+    }
+ 
+    .hero-description {
+        font-size: 16px;
+    }
+ }
