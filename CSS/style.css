@@ -111,3 +111,38 @@ h6 {
         font-size: 16px;
     }
  }
+
+ .presentation, .organizers  {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     background-color: #1D1D3E;
+     width: 100%;
+     position: fixed;
+ }
+
+.pres-title, .team-title {
+    color: #D88798;
+}
+
+ .white {
+     color: white;
+ }
+
+ .card {
+     display: inline-flex;
+     background: #F5D7BD;
+     color: black;
+     justify-content: space-between;
+     align-items: center;
+ }
+
+ .profile-pic {
+     border-width: 2px;
+     border-color: black;
+     border-radius: 50%;
+ }
+
+ .card a {
+     color: black;
+ }
