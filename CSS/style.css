@@ -130,7 +130,7 @@ h6 {
  }
 
  .card {
-     display: inline-flex;
+     display: flex;
      background: #F5D7BD;
      color: black;
      justify-content: space-between;
