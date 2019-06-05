@@ -63,6 +63,16 @@
                     </div>
            </div>
     </section>
-
+    <script>
+            window.onscroll = function navbarTransition() {
+                let navbar = document.getElementById("navbar");
+    
+                if (document.documentElement.scrollTop > 50) {
+                    navbar.classList.add("scrolled");
+                } else {
+                    navbar.classList.remove("scrolled");
+                }
+            };
+        </script>
 </body>
 </html>
