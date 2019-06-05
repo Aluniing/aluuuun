@@ -135,6 +135,10 @@ h6 {
     margin-top: 25px;
  }
 
+.pres-title {
+    margin-bottom: 25px;
+}
+
 .pres-text {
     width: 50%;
 }
