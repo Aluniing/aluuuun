@@ -21,6 +21,12 @@ h6 {
     height: 80px;
     width: 100%;
     position: fixed;
+    transition: .2s;
+}
+
+.navbar.scrolled {
+    background-color: hsl(240, 45%, 10%);
+    height: 90px;
 }
 
 .navbar>.container {
@@ -120,35 +126,26 @@ h6 {
      width: 100%;
  }
 
-.pres-title, .team-title {
-    color: #D88798;
-    text-align: center;
+.about {
+    width: 100%;
+    background: white;
 }
 
- .white {
-     color: white;
+.about p {
+    color: black;
+}
+
+ .about-intro, .team-title {
+    color: black;
+    text-align: center;
+    padding: 15px;
+    margin-top: 25px;
  }
 
  .card {
      display: flex;
-     background: #F5D7BD;
-     color: black;
-     justify-content: space-between;
+     align-self: center;
+     justify-content: center;
+     margin: 20px;
      align-items: center;
-     padding: 25px;
-     margin: 0 auto;
- }
-
- .profile-pic {
-     height: 50px;
-     width: 50px;
-     padding: 25px;
-     border-width: 2px;
-     border-color: black;
-     border-radius: 50%;
- }
-
- .card a {
-     color: black;
-     position: relative;
  }
