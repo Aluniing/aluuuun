@@ -112,7 +112,7 @@ h6 {
     }
  }
 
- .presentation, .organizers  {
+ .presentation {
      display: flex;
      justify-content: space-between;
      align-items: center;
@@ -122,6 +122,7 @@ h6 {
 
 .pres-title, .team-title {
     color: #D88798;
+    text-align: center;
 }
 
  .white {
@@ -134,9 +135,13 @@ h6 {
      color: black;
      justify-content: space-between;
      align-items: center;
+     margin: 0 auto;
  }
 
  .profile-pic {
+     height: 50px;
+     width: 50px;
+     padding: 25px;
      border-width: 2px;
      border-color: black;
      border-radius: 50%;
