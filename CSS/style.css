@@ -118,16 +118,8 @@ h6 {
     }
  }
 
- .presentation {
-     display: flex;
-     justify-content: space-between;
-     align-items: center;
-     background-color: #1D1D3E;
-     width: 100%;
- }
-
 .about {
-    width: 50%;
+    width: 100%;
     background: white;
 }
 
@@ -141,6 +133,10 @@ h6 {
     padding: 15px;
     margin-top: 25px;
  }
+
+.pres-text {
+    width: 50%;
+}
 
  .card {
      display: flex;
