@@ -121,8 +121,7 @@ h6 {
 .about {
     width: 100%;
     background: white;
-    display: flex;
-    align-self: center;
+    text-align: center;
 }
 
 .about p {
