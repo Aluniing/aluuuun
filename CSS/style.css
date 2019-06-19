@@ -149,4 +149,5 @@ h6 {
  .card-container {
      display: grid;
      grid-template-columns: repeat(3, 1fr);
+     margin: 50px 200px;
  }
