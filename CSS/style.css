@@ -142,7 +142,7 @@ h6 {
  .card {
     justify-items: center;
     justify-content: space-around;
-
+    grid-gap: 20px;
  }
 
  .card-container {
