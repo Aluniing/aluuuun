@@ -151,18 +151,4 @@ h6 {
      display: grid;
      grid-template-columns: repeat(3, 1fr);
  }
-
- .brandon {
-     grid-column: 1 / span 1;
-     justify-self: center;
- }
-
- .anna {
-    grid-column: 2 / span 1;
-    justify-self: center;
- }
-
- .cornel {
-    grid-column: 3 / span 1;
-    justify-self: center;
- }
+ 
