@@ -140,7 +140,6 @@ h6 {
 }
 
  .card {
-     display: flex;
      flex-direction: column;
      justify-content: flex-start;
      margin: 20px;
@@ -151,4 +150,3 @@ h6 {
      display: grid;
      grid-template-columns: repeat(3, 1fr);
  }
- 
