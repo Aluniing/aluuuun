@@ -159,10 +159,10 @@ h6 {
 
  .anna {
     grid-column: 2 / span 1;
-     justify-self: center;
+    justify-self: center;
  }
 
  .cornel {
     grid-column: 3 / span 1;
-     justify-self: center;
+    justify-self: center;
  }
