@@ -140,10 +140,10 @@ h6 {
 }
 
  .card {
-     flex-direction: column;
-     justify-content: flex-start;
      margin: 20px;
-     align-items: center;
+    justify-items: center;
+    justify-content: space-around;
+
  }
 
  .card-container {
