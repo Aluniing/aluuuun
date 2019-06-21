@@ -142,11 +142,11 @@ h6 {
  .card {
     justify-items: center;
     justify-content: space-around;
-    margin: 50px 0px;
  }
 
  .card-container {
      display: grid;
-     grid-template-columns: repeat(5, 1fr);
+     grid-template-columns: repeat(3, 1fr);
      grid-column-gap: 200px;
+     margin: 50px 0px;
  }
