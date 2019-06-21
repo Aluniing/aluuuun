@@ -149,7 +149,3 @@ h6 {
      grid-template-columns: repeat(3, 1fr);
      grid-column-gap: 100px;
  }
-
- .about-container {
-     margin: 100px 0px;
- }
