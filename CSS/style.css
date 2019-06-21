@@ -147,5 +147,5 @@ h6 {
  .card-container {
      display: grid;
      grid-template-columns: repeat(3, 1fr);
-     grid-column-gap: 200px;
+     grid-column-gap: 100px;
  }
