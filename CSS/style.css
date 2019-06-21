@@ -148,4 +148,5 @@ h6 {
      display: grid;
      grid-template-columns: repeat(3, 1fr);
      grid-column-gap: 200px;
+     margin: auto 0px;
  }
